@@ -1,0 +1,2 @@
+g++ -fopenmp filename.cpp -o executable
+./executable
